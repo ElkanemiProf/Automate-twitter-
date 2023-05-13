@@ -1,0 +1,20 @@
+Automating Tweets with Selenium
+This project shows you how to automate tweets using the Python Selenium library.
+
+Prerequisites
+Before you begin, you need to have the following:
+
+Python 3 installed on your machine
+Selenium library installed in Python
+Chrome browser installed on your machine
+
+
+Installation
+Install the Selenium library using pip:
+pip install selenium
+
+Download the Chrome driver for your version of Chrome and place it in the project directory. You can download the Chrome driver from the following link: https://sites.google.com/a/chromium.org/chromedriver/downloads
+
+Open Automating twitter, selenium bots.py and replace the email and password variables with your Twitter login credentials.
+
+Replace the messages variable with the text you want to tweet.
